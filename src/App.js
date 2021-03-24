@@ -45,8 +45,6 @@ function App() {
       } else {
         setDifference('equal');
       }
-      console.log(latest.rates.USD);
-      console.log({ rates, median });
     };
     fetchCurrencyData();
   }, [currentRate]);
