@@ -12,4 +12,4 @@ User `yarn build` to build the project
 
 ## Location of deployed application
 
-You can review the deployed project at [here](http://localhost:3000);
+You can review the deployed project at [here](https://currency-cad-to-usd.netlify.app/);
