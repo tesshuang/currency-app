@@ -52,7 +52,7 @@ function App() {
           <h1>CAD to USD Exchange Rate</h1>
           <h3>Today's rate is {currentRate}</h3>
           <p>Suggestion of day:</p>
-          <Toggle />
+          <Toggle action={difference} changeAction={setDifference} />
         </div>
       )}
     </div>
