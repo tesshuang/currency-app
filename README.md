@@ -4,12 +4,14 @@ This is a React project bootstrapped with Create React App. It's a simple curren
 
 ## Instructions to run the project locally
 
-In the project directory, you can run:
+In the project directory, you can:
 
-Use `yarn start` to run or start the project
-Use `yarn test` to test the runner
-User `yarn build` to build the project
+Use `yarn start` to run or start the project.
+
+Use `yarn test` to test the runner.
+
+Use `yarn build` to build the project.
 
 ## Location of deployed application
 
-You can review the deployed project at [here](https://currency-cad-to-usd.netlify.app/);
+You can review the deployed project at [here](https://currency-cad-to-usd.netlify.app/).
